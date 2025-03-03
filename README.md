@@ -12,11 +12,11 @@ To ensure the accuracy and reliability of the geolocation data, the **DbIP-City-
 
 You can download the latest version of the **DbIP-City-lite** database using the following link:
 
-[DbIP-City-lite.mmdb.gz](https://cdn.jsdelivr.net/gh/yourusername/DbIP-City-lite@latest/dbip-city-lite.mmdb.gz)
+[DbIP-City-lite.mmdb.gz](https://cdn.jsdelivr.net/npm/dbip-city-lite/dbip-city-lite.mmdb.gz)
 
 ## Source Location
 
-For the complete directory and additional resources, visit the [DbIP-City-lite Source](https://github.com/yourusername/DbIP-City-lite).
+For the complete directory and additional resources, visit the [DbIP-City-lite Source](https://cdn.jsdelivr.net/npm/dbip-city-lite/).
 
 ## License Information
 
