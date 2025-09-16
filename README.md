@@ -6,7 +6,7 @@ The **DbIP-City-lite** database, provided by [DbIp](https://db-ip.com/), offers 
 
 To ensure the accuracy and reliability of the geolocation data, the **DbIP-City-lite** database is **updated twice a month**. The latest version is made accessible via GitHub and the jsDelivr CDN for the convenience of developers and projects.
 
-**Last updated:** 2025-07-30
+**Last updated:** 2025-09-16
 
 ## Direct Download URL
 
