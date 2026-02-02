@@ -1,6 +1,6 @@
 {
   "name": "dbip-city-lite",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "dbip-city-lite.mmdb.gz CDN files based on Free Open Source CDN [jsDelivr!](https://www.jsdelivr.com/)",
   "main": "index.js",
   "scripts": {

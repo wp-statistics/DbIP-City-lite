@@ -98,7 +98,7 @@ This database is **automatically updated** via GitHub Actions:
 - **Source:** [DB-IP Lite](https://db-ip.com/db/lite.php)
 - **Distribution:** Published to npm, served via jsDelivr CDN
 
-#### Last updated: 2026-01-01
+#### Last updated: 2026-02-02
 
 ---
 
